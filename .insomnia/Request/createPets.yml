@@ -1,0 +1,21 @@
+_id: createPets
+type: Request
+parentId: fld_wrk_3c79637f7a074ee6a3e931c67f6dfed5a8acce24
+modified: 1656513118371
+created: 1656513118371
+url: "{{ base_url }}/pets"
+name: Create a pet
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656513118371
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

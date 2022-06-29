@@ -1,0 +1,21 @@
+_id: showPetById
+type: Request
+parentId: fld_wrk_3c79637f7a074ee6a3e931c67f6dfed5a8acce24
+modified: 1656513118370
+created: 1656513118370
+url: "{{ base_url }}/pets/{{ petId }}"
+name: Info for a specific pet
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656513118370
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

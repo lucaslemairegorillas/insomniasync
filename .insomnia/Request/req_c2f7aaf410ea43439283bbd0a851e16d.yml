@@ -1,0 +1,30 @@
+_id: req_c2f7aaf410ea43439283bbd0a851e16d
+type: Request
+parentId: wrk_3c79637f7a074ee6a3e931c67f6dfed5
+modified: 1656512781184
+created: 1656511789886
+url: localhost/orders
+name: New Request
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"a": "b",
+    	"gzgz": "c"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_599ebb9ef8e34a32898b27515c185935
+authentication: {}
+metaSortKey: -1656511789886
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
